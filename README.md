@@ -1,4 +1,4 @@
-## Implementation of a simple GAN using PyTorch. The model generates synthetic images based on the MNIST dataset.
+## Implementation of GAN using PyTorch. The model generates synthetic images based on the MNIST dataset.
 
 ### Features
 
